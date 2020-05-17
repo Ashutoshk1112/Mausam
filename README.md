@@ -15,3 +15,19 @@ With the help of some more data be able to predict the future weather.
 
 Add an option to save various city locations.
 
+
+
+![](MausamSamples/OpenScreen.JPG)
+
+
+![](MausamSamples/MainScreen1.JPG)
+
+
+![](MausamSamples/MainScreen3.JPG)
+
+
+![](MausamSamples/MainScreen4.JPG)
+
+
+
+
