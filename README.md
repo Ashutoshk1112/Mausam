@@ -12,5 +12,6 @@ Weather data is attained from openweathermaps api.
 
 # TODO
 With the help of some more data be able to predict the future weather.
+
 Add an option to save various city locations.
 
